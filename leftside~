@@ -1,0 +1,49 @@
+<div id="templatemo_content_left">
+        
+        	<div id="login_section">
+            	<div id="login_section_top"></div>
+                <div id="login_section_title">Member Login</div>
+                <div id="login_section_middle">
+                	<form action="#" method="get">
+                            <div class="form_row">
+                            	<label>Email: </label>
+                            	<input  name="email_address" type="text" id="email_addremss"/>
+                            </div>
+                            <div class="form_row">
+                            	<label>Password: </label>
+                                <input  name="password" type="password" id="password"/>
+                            </div>
+                            <input class="button" type="submit" name="Submit" value="Login" />
+                    </form>
+                    <a href="#">Forget Password ?</a><br />
+                    <a href="#">Create New Account</a></div>
+                <div id="login_section_bottom"></div>
+            </div>
+            
+           	<div id="left_column_section">
+            	<div id="left_column_section_top"></div>
+                <div id="left_column_section_title">Popular Posts</div>
+                <div id="left_column_section_middle">
+                  <div class="popular_post">
+                	<h1>&raquo; Aliquam pretium porta odio</h1>
+                        <p>Duis vitae velit. Ut ultricies. Fusce sollici tudin nisl a lectus.</p>
+                    </div>
+                  <div class="popular_post">
+                <h1>&raquo; Donec accumsan urna non</h1>
+                        <p>Pellen tesque odio. Pellen tesque habitant morbi tristique.</p>
+                    </div>
+                    
+                  <div class="popular_post">
+                <h1>&raquo; Mauris et elit quis mauris</h1>
+                        <p>Aliq uam elit risus, volutpat quis, ma ttis ac, elementum eget.</p>
+                    </div>
+                    
+                  <div class="popular_post">
+                <h1>&raquo; Cras pretium sem sed odio</h1>
+                        <p>Qui sque rhon cus nulla quis sem. Mau ris quis nulla sed ipsum.</p>
+                    </div>
+                </div>
+            </div> 
+            
+        </div> <!-- end of content left -->
+        
